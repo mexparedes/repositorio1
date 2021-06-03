@@ -6,6 +6,7 @@
   z-index: 2;
 /* color celeste  #23a1ad; */
 }
+/* Seccion inicial del Body */
 body{
   background-color: black;
   font-family: 'Open Sans';
@@ -21,6 +22,8 @@ body h2{
 body h1{
   font-weight: lighter;
 }
+
+
 
 /* Seccion de los parrafos Quienes somos */
 #seccionparrafos h1{
