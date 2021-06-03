@@ -1,0 +1,57 @@
+
+/* Definimos algunos parametros iniciales y las posiciones relativa y absoluta del carousel y navbar */
+
+.navbar{
+  /* background: none; */
+  z-index: 2;
+/* color celeste  #23a1ad; */
+}
+body{
+  background-color: black;
+  font-family: 'Open Sans';
+}
+
+body hr{
+  border: 3px solid #23a1ad;
+  width: 90%
+}
+body h2{
+  font-weight: lighter;
+}
+body h1{
+  font-weight: lighter;
+}
+
+/* Seccion de los parrafos Quienes somos */
+#seccionparrafos h1{
+  font-size: 40px;
+  padding: 0;
+}
+
+
+/* barra de iconos */
+.icon-bar{
+  background: #23a1ad;
+}
+.fas{
+  background: #23a1ad;
+}
+
+.card-body{
+  background: #23a1ad;
+}
+.card-img-top{
+
+  height: 200px;
+  object-fit: cover;
+}
+
+/* Seccion contacto */
+#contacto h2{
+  font-size: 40px;
+}
+
+/* FOOTER */
+footer {
+background-color: #23a1ad;
+}
